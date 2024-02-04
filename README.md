@@ -10,3 +10,6 @@ Personal Project 2 - I wouldn't say that I am a math nerd but in this personal p
 
 Personal Project 3 - This project revolves around leveraging the principles acquired from CSCI 3240 (Intro to Computer Systems) to create a Blockbuster movie database. This database will incorporate concurrent programming, enabling simultaneous interactions for multiple Blockbuster employees. Through this implementation, employees can seamlessly edit the database, process rental requests, and manage returns, ensuring efficient and concurrent operations within the Blockbuster system.
 
+Personal Project 4- (Personal Website) This personal project will be done in steps called skeleton phases as I complete my personal Website
+
+
